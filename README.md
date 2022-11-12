@@ -2,14 +2,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&color=70a5fd&width=670&height=100&duration=9000&center=true&lines=Welcome%20to%20My%20Github%20Profile!%20%F0%9F%91%8B">
 
 <h2>Hello! <img src="https://user-images.githubusercontent.com/43292234/179925738-4df11b89-1924-4d3d-82b5-3a197ac4f031.gif" width="20" /></h2>
-<h3>I'm M Ilham from <b>Indonesia<b> I'm a Software Developer, currently I'm focused in Backend Developer <b>(NodeJS/Typescript)</b> I'm intrested about conceptual programming for create system with clean code, and the best practice for programming architecture. I'm passionate about join to contribute in project open source. And maybe someday i can build a project open source too for improves the lives of those around me😄</h3>
+<h3>I'm M Ilham from <b>Indonesia</b> I'm a Software Developer, currently I'm focused in Backend Developer <b>(NodeJS/Typescript)</b> I'm intrested about conceptual programming for create system with clean code, and the best practice for programming architecture. I'm passionate about join to contribute in project open source. And maybe someday i can build a project open source too for improves the lives of those around me😄</h3>
 
 <h2>📈 Github Status<h2>
 <p align="center">
 <a href="https://github.com/dhianica"><img src="https://github-readme-stats.vercel.app/api?username=dhianica&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=0"><img src="https://github-readme-streak-stats.herokuapp.com?user=dhianica&theme=neon-dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&sideLabels=FFFFFF&currStreakLabel=FFB000&dates=785EF0&sideNums=FFB000&currStreakNum=FFB000&ring=DD1D1D&stroke=00000000&background=0000000"></a>
 
 <p align="center">
-<a href="https://github.com/dhianica"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhianica&layout=compact&theme=vision-friendly-dark&card_width=700&hide=html,css,blade,php&hide_border=true&border_radius=0">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhianica&layout=compact&theme=vision-friendly-dark&card_width=700&hide=html,css,blade,php&hide_border=true&border_radius=0">
 
 <h2>👨‍💻 Programming</h2>
 <img src='https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,php,cs,dotnet'>
@@ -19,7 +19,7 @@
 
 <h2>🔧 Technologies</h2>
 <img src='https://skillicons.dev/icons?i=git,github,linux,docker,azure'>
- </a>
+
 
 <h2>📇 Social & Contact</h2>
 <div align="left">
