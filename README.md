@@ -6,8 +6,8 @@
 
   <ul>
     <li>🌍  I'm based in Indonesia</li>
-    <li>🖥️  See my portfolio at [https://synelokk.github.io/](http://synelokk.github.io/)</li>
-    <li>✉️  You can contact me at [synelokk0610@outlook.com](mailto:synelokk0610@outlook.com)</li>
+    <li>🖥️  See my portfolio at https://synelokk.github.io/</li>
+    <li>✉️  You can contact me at synelokk0610@gmail.com</li>
     <li>🧠  I'm learning NestJs</li>
     <li>⚡  Coding & Coffee ✨</li>
   </ul>
