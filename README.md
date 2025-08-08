@@ -25,18 +25,19 @@
 <p align="center">
   
   <a href="https://github.com/synelokk/microservice-k8s-first-app">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=synelokk&repo=microservice-k8s-first-app&theme=vision-friendly-dark&hide_border=true&border_radius=0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=synelokk&repo=microservice-k8s-first-app&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
   <a href="https://github.com/synelokk/nodejs-rabbitmq">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=synelokk&repo=nodejs-rabbitmq&theme=vision-friendly-dark&hide_border=true&border_radius=0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=synelokk&repo=nodejs-rabbitmq&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
   <a href="https://github.com/synelokk/nodejs-socket">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=synelokk&repo=nodejs-socket&theme=vision-friendly-dark&hide_border=true&border_radius=0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=synelokk&repo=nodejs-socket&theme=vision-friendly-dark&hide_border=true&border_radius=0">
   </a>
 
 <h2>📈 Github Status</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=synelokk&show_icons=true&theme=radical" width="400" heigh="220">
+<img src="https://github-readme-stats.vercel.app/api?username=synelokk&theme=vision-friendly-dark&show_icons=true&hide_border=true&include_all_commits=true&card_width=500px&line_height=20px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synelokk&theme=vision-friendly-dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&card_width=500px">
 
 <h2>📇 Social & Contact</h2>
     <div align="left">
